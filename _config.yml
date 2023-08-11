@@ -32,7 +32,7 @@ plugins:
 
 logo: "logo.jpg"
 show_downloads: false # indicate whether to provide a download URL]
-google_analytics: G-SK8D857EXW
+google_analytics: G-858KBEJVE5
 
 github:
   zip_url: https://github.com/WangXin93/recipes.git
